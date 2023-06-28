@@ -1,7 +1,7 @@
 
 // }// // ************* TASK - 1 *************
 // let let_variable = 2;
-// var var_variable = 'UDAY';
+// var var_variable = 'kirtan';
 // const const_variable = [1,2,3,4,5];
 // console.log(let_variable,var_variable,const_variable);
 
